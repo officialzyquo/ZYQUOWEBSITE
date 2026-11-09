@@ -1,0 +1,1016 @@
+# MASTER PROMPT: BUILD THE OFFICIAL ZYQUO WEBSITE
+
+You are an elite team of world-class professionals consisting of:
+
+- Creative Director
+- Premium UI/UX Designer
+- Brand Identity Strategist
+- Senior Full-Stack Developer
+- React and TypeScript Engineer
+- 3D Web Experience Designer
+- Motion Graphics and Animation Specialist
+- Conversion Rate Optimization Expert
+- SEO, AEO and GEO Specialist
+- Software Architect
+
+Your task is to DESIGN AND DEVELOP the complete official website for **ZYQUO**, an AI-integrated IT and technology company.
+
+This is not a request to create a basic landing page, static website or generic digital marketing agency template.
+
+Build a complete, sophisticated, production-quality, multi-page website with a distinctive visual identity, functional navigation, premium animations, responsive layouts, interactive features and conversion-focused architecture.
+
+The website should represent an ambitious global technology brand.
+
+The overall experience should combine:
+
+**Apple-inspired glassmorphism + Luxury black-and-gold branding + Premium technology aesthetics + Advanced interactive experiences.**
+
+The website must feel exceptionally polished, sophisticated, intelligent, modern and trustworthy.
+
+---
+
+# 1. OFFICIAL BRAND IDENTITY
+
+Company name: ZYQUO
+
+Official tagline:
+
+**ENGINEERED FOR EXCELLENCE.**
+
+Use the tagline exactly as written above in the logo treatment and throughout appropriate brand sections.
+
+The tagline is a central part of the company's identity.
+
+## Official logo
+
+I will provide the official ZYQUO logo as a reference image.
+
+You MUST use the uploaded logo as the original brand asset.
+
+Logo requirements:
+
+- Preserve the exact ZQ monogram.
+- Preserve the original ZYQUO typography.
+- Preserve the metallic champagne-gold appearance.
+- Maintain original proportions and spacing.
+- Do not redesign or recreate the logo.
+- Do not change its colour.
+- Do not distort, crop or stretch it.
+- Do not replace it with a text-based logo.
+- Use the original logo in the navigation, footer and relevant brand sections.
+- Ensure that it remains legible against dark backgrounds.
+
+Use the uploaded image as the source asset wherever possible.
+
+If a transparent logo version is needed, create a clean implementation without altering the actual logo artwork.
+
+# 2. OFFICIAL COLOUR PALETTE
+
+The website MUST follow the colour identity of the official ZYQUO logo.
+
+Use this palette consistently throughout every page.
+
+| Colour | Hex code | Usage |
+|---|---|---|
+| Deep luxury black | #050505 | Main background |
+| Secondary black | #0B0B0B | Secondary sections |
+| Champagne gold | #D4AF62 | Primary brand accent |
+| Metallic gold | #B58A3A | Highlights and borders |
+| Warm ivory | #F5EBDD | Premium text accents |
+| White | #F5F5F5 | Primary typography |
+| Muted grey | #A3A3A3 | Secondary typography |
+| Dark grey | #242424 | Subtle borders |
+
+Gold gradients may be used sparingly to create a refined metallic appearance.
+
+DO NOT introduce:
+- Purple.
+- Pink.
+- Neon green.
+- Bright blue accents.
+- Random multicolour gradients.
+- Unrelated brand colours.
+
+The entire website must maintain a consistent black, champagne-gold, ivory and grey visual language.
+
+# 3. DESIGN LANGUAGE — APPLE-INSPIRED GLASSMORPHISM
+
+This is one of the most important requirements.
+
+Create an elegant Apple-inspired glassmorphism experience while maintaining ZYQUO's own identity.
+
+The website should use sophisticated frosted-glass interfaces, translucent surfaces, background blur, subtle reflections, elegant transparency and layered depth.
+
+## Glassmorphism elements
+
+Implement:
+
+- Floating frosted-glass navigation.
+- Translucent service cards.
+- Glass-style buttons.
+- Frosted-glass mega menus.
+- Semi-transparent dark panels.
+- Subtle backdrop blur.
+- Fine metallic-gold borders.
+- Soft ambient reflections.
+- Layered translucent surfaces.
+- Elegant light refraction effects.
+- Premium floating interface elements.
+- Sophisticated hover transitions.
+
+Use dark glass surfaces with controlled transparency.
+
+Recommended starting treatment:
+- Glass opacity: approximately 70–85%, adjusted for readability.
+- Background blur: approximately 16–24px where appropriate.
+- Border: subtle white or champagne-gold transparency.
+- Shadow: soft and understated.
+- Reflection: restrained champagne-gold highlights.
+
+Avoid excessive blur, bright neon glows, thick borders and unnecessary visual effects.
+
+The glass should feel refined and realistic, not plastic or cartoonish.
+
+## Navigation glass design
+
+Create a floating, rounded navigation bar.
+
+Features:
+- Translucent black background.
+- Frosted-glass blur.
+- Fine border.
+- Official ZYQUO logo on the left.
+- Navigation links in elegant white typography.
+- Champagne-gold CTA on the right.
+- Smooth transition when scrolling.
+- Premium mobile menu.
+
+## Glass service cards
+
+Each service card should feature:
+- Dark translucent glass surface.
+- Subtle metallic-gold outline.
+- Minimal icon or premium visual.
+- Clear heading.
+- Concise description.
+- Smooth hover elevation.
+- Elegant transition.
+- Explore link.
+
+## Glass buttons
+
+Create premium buttons with:
+- Rounded corners.
+- Subtle glass texture where suitable.
+- Champagne-gold borders or backgrounds.
+- Smooth hover transitions.
+- Elegant focus states.
+- Clear text contrast.
+
+The website should feel like a premium technology interface inspired by Apple's attention to detail, not a copy of Apple's website.
+
+# 4. BRAND POSITIONING
+
+ZYQUO is an AI-integrated IT and technology company.
+
+The company combines technology, software engineering, artificial intelligence, digital innovation and business growth solutions.
+
+ZYQUO should NOT be positioned as a conventional digital marketing agency.
+
+The brand should communicate:
+
+- Artificial intelligence integration.
+- Advanced software engineering.
+- Custom technology development.
+- Business transformation.
+- Digital innovation.
+- Strategic thinking.
+- Intelligent automation.
+- Long-term technology partnerships.
+- Global-standard execution.
+
+Brand personality:
+
+- Premium.
+- Intelligent.
+- Minimal.
+- Confident.
+- Professional.
+- Innovative.
+- Trustworthy.
+- Results-oriented.
+
+# 5. WEBSITE ARCHITECTURE
+
+Build the following complete pages:
+
+1. Home
+2. About ZYQUO
+3. Services
+4. AI & Automation
+5. Website Development
+6. Mobile App Development
+7. SaaS Development
+8. Custom Software Solutions
+9. Digital Marketing & Growth
+10. Branding & Digital Strategy
+11. Our Work / Portfolio
+12. Individual Case Studies
+13. Industries
+14. Our Approach
+15. Insights / Blog
+16. Contact / Start a Project
+17. FAQ
+18. Privacy Policy
+19. Terms and Conditions
+
+All pages must share a consistent design system, navigation and footer.
+
+Use proper routing. Every important navigation link must work.
+
+# 6. HOMEPAGE — COMPLETE EXPERIENCE
+
+## SECTION 01: PREMIUM NAVIGATION
+
+Build a fixed or intelligently sticky floating glass navigation bar.
+
+Left:
+Official ZYQUO logo.
+
+Navigation:
+- Home
+- About
+- Services
+- Our Work
+- Industries
+- Insights
+
+Right:
+Premium CTA: START A PROJECT.
+
+Features:
+- Floating rounded glass container.
+- Translucent dark background.
+- Backdrop blur.
+- Fine border.
+- Smooth scrolling behaviour.
+- Animated dropdown menus.
+- Responsive mobile navigation.
+- Elegant active states.
+
+## SECTION 02: CINEMATIC HERO
+
+Create a full-screen, immersive homepage hero.
+
+Main headline:
+
+**WE ENGINEER
+WHAT'S NEXT.**
+
+Supporting copy:
+
+"Intelligent technology. Exceptional digital experiences. Engineered solutions that move businesses forward."
+
+Additional supporting line:
+
+"From AI-powered automation to custom software and digital growth, we transform ambitious ideas into intelligent digital realities."
+
+Primary CTA:
+START A PROJECT
+
+Secondary CTA:
+EXPLORE OUR WORK
+
+Visual direction:
+- Deep luxury-black background.
+- Sophisticated champagne-gold lighting.
+- Large premium typography.
+- Cinematic 3D-inspired digital object.
+- Abstract architectural technology forms.
+- Subtle particles.
+- Refined reflections.
+- Layered glass elements.
+- Subtle animation.
+- Excellent negative space.
+
+The visual must be premium and minimal.
+
+Do not make it resemble a gaming website or a generic futuristic template.
+
+## SECTION 03: TRUST & CREDIBILITY
+
+Create a sophisticated credibility section.
+
+Include editable fields for:
+- Years of experience.
+- Projects completed.
+- Clients served.
+- Industries supported.
+- Geographic reach.
+
+Do not invent statistics, awards, partnerships or achievements.
+
+If information is unavailable, use editable placeholders or omit the metric.
+
+## SECTION 04: INTRODUCING ZYQUO
+
+Headline:
+
+**BEYOND DIGITAL.
+ENGINEERED FOR IMPACT.**
+
+Description:
+
+"ZYQUO brings together intelligent technology, software engineering and strategic execution to help businesses build, transform and scale their digital capabilities."
+
+Include:
+- Company introduction.
+- Brand philosophy.
+- Three differentiators.
+- Official tagline.
+- CTA: DISCOVER ZYQUO.
+
+Use elegant editorial typography and a premium glass visual treatment.
+
+## SECTION 05: WHAT WE ENGINEER
+
+Headline:
+
+**TECHNOLOGY THAT MOVES BUSINESS FORWARD.**
+
+Present the following services in an elegant glassmorphism grid or interactive layout.
+
+### 01. AI & Intelligent Automation
+AI integrations, business automation, intelligent workflows and process optimisation.
+
+### 02. Website Development
+Business websites, e-commerce platforms, web applications and custom digital experiences.
+
+### 03. Mobile Application Development
+Android, iOS and cross-platform mobile applications.
+
+### 04. SaaS Development
+Scalable software products, SaaS platforms and cloud-based business applications.
+
+### 05. Custom Software Solutions
+Tailored software, business dashboards, management systems and specialised applications.
+
+### 06. Digital Marketing & Growth
+SEO, social media management, paid advertising, Google Business Profile management and digital growth strategy.
+
+### 07. Branding & Digital Strategy
+Brand identity, positioning, digital presence and business growth planning.
+
+Each service must have:
+- A unique visual.
+- A short description.
+- A relevant icon.
+- A premium translucent card.
+- A subtle gold accent.
+- A clear CTA.
+- A dedicated service page.
+
+Do not overcrowd the service section.
+
+## SECTION 06: FEATURED WORK
+
+Headline:
+
+**IDEAS, ENGINEERED INTO REALITY.**
+
+Create a premium portfolio showcase.
+
+Include:
+- Website projects.
+- Mobile applications.
+- SaaS products.
+- AI automation projects.
+- Software solutions.
+- Branding and digital campaigns.
+
+Use:
+- Large project previews.
+- Desktop and mobile mockups.
+- Immersive project layouts.
+- Elegant hover effects.
+- Category labels.
+- Project descriptions.
+- Technology tags.
+- View Project CTA.
+
+Use clearly labelled editable demo placeholders until actual client projects are added.
+
+Never represent fictional projects as completed client work.
+
+## SECTION 07: WHY ZYQUO
+
+Headline:
+
+**BUILT DIFFERENT.
+ENGINEERED BETTER.**
+
+Highlight the company's differentiators:
+
+- AI-integrated approach.
+- Custom-engineered solutions.
+- Business-first thinking.
+- Transparent communication.
+- Quality-focused execution.
+- Long-term technology partnership.
+- Scalable digital infrastructure.
+
+Use an elegant layout with alternating black and frosted-glass surfaces.
+
+## SECTION 08: OUR APPROACH
+
+Headline:
+
+**FROM VISION TO EXECUTION.**
+
+Build an interactive seven-stage process.
+
+01. DISCOVER
+Understand the business, objectives and requirements.
+
+02. UNDERSTAND
+Identify challenges, opportunities and technical needs.
+
+03. STRATEGISE
+Develop a clear execution roadmap.
+
+04. ENGINEER
+Design and build the solution.
+
+05. VALIDATE
+Test functionality, performance and quality.
+
+06. DEPLOY
+Launch the solution.
+
+07. OPTIMISE
+Support, improve and scale.
+
+Use an animated timeline or elegant connected visual system.
+
+## SECTION 09: CASE STUDIES
+
+Headline:
+
+**RESULTS THAT SPEAK THROUGH EXECUTION.**
+
+Build an immersive case-study section.
+
+Each case study should include:
+
+- Client or project name.
+- Industry.
+- Business challenge.
+- Strategy.
+- Solution developed.
+- Technologies used.
+- Execution timeline.
+- Measurable results.
+- Screenshots.
+- Client feedback, where available.
+
+Create dedicated case-study pages.
+
+Only publish verified outcomes and approved client information.
+
+## SECTION 10: INDUSTRIES WE SERVE
+
+Create elegant visual tiles for:
+
+- Healthcare.
+- Education.
+- E-commerce and Retail.
+- Real Estate.
+- Hospitality.
+- Professional Services.
+- Startups.
+- Enterprise Businesses.
+
+Each tile should have a concise description and relevant visual.
+
+## SECTION 11: TECHNOLOGY & EXPERTISE
+
+Headline:
+
+**ENGINEERED WITH THE RIGHT TECHNOLOGY.**
+
+Create categories for:
+
+- Frontend Development.
+- Backend Development.
+- Mobile Development.
+- Cloud Infrastructure.
+- Artificial Intelligence.
+- Databases.
+- Business Automation.
+- Analytics and Marketing Technology.
+
+Display only technologies and tools that ZYQUO actually uses or supports.
+
+Use refined technology icons and elegant glass panels.
+
+## SECTION 12: CLIENT TESTIMONIALS
+
+Headline:
+
+**TRUST BUILT THROUGH EXECUTION.**
+
+Create a premium testimonial section supporting:
+
+- Written testimonials.
+- Video testimonials.
+- Client logos with permission.
+- Client names and designations with permission.
+- Verified review links.
+
+Use placeholders until genuine testimonials are available.
+
+Never fabricate customer reviews.
+
+## SECTION 13: INSIGHTS & KNOWLEDGE
+
+Headline:
+
+**THINKING BEYOND THE ORDINARY.**
+
+Create an editorial-style insights section.
+
+Topics:
+- Artificial intelligence.
+- Automation.
+- Software engineering.
+- Technology trends.
+- Business transformation.
+- SaaS development.
+- Digital growth.
+- Website strategy.
+
+Include:
+- Article thumbnails.
+- Categories.
+- Publication dates.
+- Reading time.
+- Individual article pages.
+- Related articles.
+
+Build SEO-friendly blog architecture.
+
+## SECTION 14: FAQ
+
+Create an elegant glassmorphism accordion.
+
+Questions should include:
+
+- What services does ZYQUO provide?
+- Does ZYQUO work with international clients?
+- How does the project development process work?
+- How much does website development cost?
+- Can ZYQUO build custom software?
+- Does ZYQUO provide AI integrations?
+- What is the typical project timeline?
+- Does ZYQUO offer maintenance and support?
+- Can I request a consultation?
+- How can I start a project?
+
+## SECTION 15: FINAL CALL TO ACTION
+
+Create a visually powerful final section.
+
+Headline:
+
+**YOUR NEXT BIG IDEA
+DESERVES TO BE ENGINEERED.**
+
+Supporting copy:
+
+"Let's turn your vision into a digital solution built for what's next."
+
+Buttons:
+- START A PROJECT
+- BOOK A CONSULTATION
+
+Use subtle gold lighting and a premium glass CTA panel.
+
+## SECTION 16: FOOTER
+
+Include:
+
+- Official ZYQUO logo.
+- ENGINEERED FOR EXCELLENCE.
+- Company description.
+- Navigation links.
+- Service links.
+- Contact details.
+- Instagram: ZYQUOGLOBAL.
+- LinkedIn.
+- Privacy Policy.
+- Terms and Conditions.
+- Copyright information.
+
+Maintain the luxury black-and-gold design.
+
+# 7. INDIVIDUAL SERVICE PAGES
+
+Every service must have a dedicated professional page.
+
+Each page should include:
+
+1. Premium service hero.
+2. Clear service explanation.
+3. Business problems solved.
+4. Our solutions.
+5. Key capabilities.
+6. Deliverables.
+7. Technology and tools.
+8. Relevant project examples.
+9. Development process.
+10. FAQs.
+11. Strong service-specific CTA.
+
+The pages must be genuinely informative, SEO-friendly and conversion-focused.
+
+# 8. ADVANCED INTERACTIVE FEATURES
+
+Implement the following features wherever technically practical.
+
+## A. SMART SOLUTION FINDER
+
+Build an interactive assistant that asks visitors about:
+
+- Their industry.
+- Business size.
+- Current challenges.
+- Desired outcome.
+- Required technology.
+
+Recommend the most relevant ZYQUO services based on their answers.
+
+Display a personalised solution summary.
+
+CTA: DISCUSS YOUR REQUIREMENTS.
+
+## B. PROJECT REQUIREMENTS BUILDER
+
+Allow visitors to select:
+
+- Service category.
+- Project type.
+- Project complexity.
+- Budget range.
+- Expected timeline.
+- Technical requirements.
+- Additional information.
+
+Generate a structured project enquiry summary.
+
+## C. PROJECT COST ESTIMATOR
+
+Create an interactive cost estimator.
+
+Allow users to select services and project requirements.
+
+Display an indicative estimated budget based on configurable pricing rules.
+
+Clearly state that estimates are preliminary and subject to a formal quotation.
+
+## D. CONSULTATION BOOKING
+
+Create a consultation request interface.
+
+Allow visitors to:
+- Select preferred date.
+- Select preferred time.
+- Enter contact details.
+- Explain their requirements.
+- Submit a consultation request.
+
+Do not pretend that a booking is confirmed without a real booking backend.
+
+## E. WHATSAPP INTEGRATION
+
+Create a floating WhatsApp contact button.
+
+Use the verified company WhatsApp number through a central editable configuration.
+
+Prepopulate a professional enquiry message.
+
+## F. WORKING CONTACT FORM
+
+Create a functional enquiry form with:
+
+- Full name.
+- Business email.
+- Phone number.
+- Company name.
+- Industry.
+- Service required.
+- Budget range.
+- Project description.
+
+Requirements:
+- Input validation.
+- Error messages.
+- Success feedback.
+- Spam protection.
+- Secure backend integration.
+
+Do not simulate a successful submission when no backend is connected.
+
+## G. CLIENT PORTAL FOUNDATION
+
+Create a premium client portal interface with a foundation for:
+
+- Project status.
+- Milestones.
+- Deliverables.
+- Documents.
+- Communication.
+- Support requests.
+- Account management.
+
+If authentication and backend infrastructure are not available, build a clearly labelled frontend prototype rather than pretending that client accounts are operational.
+
+# 9. ABOUT ZYQUO PAGE
+
+Create a complete About page.
+
+Include:
+
+- Company introduction.
+- Brand philosophy.
+- Mission.
+- Vision.
+- Founder introduction.
+- Company values.
+- Expertise.
+- Strategic approach.
+- Global ambitions.
+- Official brand tagline.
+
+Suggested headline:
+
+**WE DON'T JUST BUILD DIGITAL.
+WE ENGINEER WHAT'S NEXT.**
+
+Use premium editorial storytelling and refined visual layouts.
+
+Keep all company-specific facts editable.
+
+# 10. OUR WORK AND PORTFOLIO
+
+Create an advanced portfolio page with filtering options.
+
+Categories:
+- All Projects.
+- Websites.
+- Mobile Applications.
+- SaaS.
+- AI & Automation.
+- Custom Software.
+- Branding.
+- Digital Growth.
+
+Each project card must include:
+- Project thumbnail.
+- Name.
+- Category.
+- Short description.
+- View details action.
+
+Include an individual project page with a detailed case study.
+
+Use editable content and clearly distinguish demo projects from actual client work.
+
+# 11. SEO, AEO AND GEO
+
+Build a strong search visibility foundation.
+
+Implement:
+
+- Unique page titles.
+- Meta descriptions.
+- Semantic HTML.
+- Proper H1, H2 and H3 structure.
+- Canonical URLs.
+- Open Graph metadata.
+- XML sitemap.
+- Robots.txt.
+- Image alt attributes.
+- Internal linking.
+- Clean URLs.
+- Organisation structured data.
+- Service structured data where appropriate.
+- Article structured data.
+- FAQ structured data only when eligible and appropriate.
+
+Target relevant search themes:
+
+- AI-integrated IT company.
+- AI automation services.
+- Custom software development.
+- Website development company.
+- Mobile app development.
+- SaaS development.
+- Business technology solutions.
+- Digital transformation.
+- Digital marketing and growth.
+
+Do not use keyword stuffing.
+
+Create content that is genuinely useful and understandable to search engines and AI-powered discovery systems.
+
+# 12. PERFORMANCE AND TECHNICAL REQUIREMENTS
+
+Use a modern, maintainable technology stack.
+
+Preferred:
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Reusable component architecture.
+- Modern animation libraries where appropriate.
+- Backend integrations where required.
+
+Technical requirements:
+
+- Fully responsive.
+- Desktop, tablet and mobile optimisation.
+- Fast loading.
+- Clean routing.
+- Accessible components.
+- Optimised images.
+- Lazy loading.
+- Reusable sections.
+- Consistent design tokens.
+- Secure API handling.
+- Clean error handling.
+- Maintainable code.
+- Proper form validation.
+
+Do not expose API keys or secrets in frontend code.
+
+If backend services are required, clearly identify the necessary configuration and integration steps.
+
+# 13. CONVERSION OPTIMISATION
+
+The website should turn relevant visitors into qualified enquiries.
+
+Implement:
+
+- Clear primary CTAs.
+- Service-specific enquiry buttons.
+- Short contact forms.
+- Genuine portfolio proof.
+- Detailed case studies.
+- Genuine testimonials.
+- Clear development processes.
+- Transparent engagement models.
+- Consultation booking.
+- WhatsApp contact.
+- Mobile-friendly conversion flows.
+
+Prepare analytics events for:
+
+- CTA clicks.
+- Contact form starts.
+- Contact form submissions.
+- Consultation requests.
+- WhatsApp clicks.
+- Project estimator completions.
+- Service page enquiries.
+
+Do not use fake counters, fabricated reviews or false urgency.
+
+# 14. RESPONSIVE DESIGN
+
+Design every page for:
+
+- Large desktop screens.
+- Standard laptops.
+- Tablets.
+- Smartphones.
+
+On mobile:
+
+- Maintain the official brand identity.
+- Simplify navigation.
+- Preserve readability.
+- Optimise glass blur effects.
+- Prevent horizontal overflow.
+- Ensure buttons are easy to tap.
+- Maintain fast loading.
+- Avoid oversized animations.
+
+# 15. ANIMATION AND INTERACTION QUALITY
+
+Use refined motion design throughout the website.
+
+Include where appropriate:
+
+- Smooth scrolling.
+- Subtle parallax.
+- Scroll-triggered reveals.
+- Premium hover transitions.
+- Glass-panel interactions.
+- Elegant text animations.
+- Smooth page transitions.
+- Animated timelines.
+- Subtle 3D object movement.
+- Sophisticated loading transitions.
+
+Animations must feel premium and purposeful.
+
+Avoid excessive motion and performance-heavy effects.
+
+Respect reduced-motion accessibility preferences.
+
+# 16. CONTENT AND BRAND CONSISTENCY
+
+Maintain a consistent communication style.
+
+Writing tone:
+- Professional.
+- Confident.
+- Intelligent.
+- Premium.
+- Clear.
+- Business-oriented.
+- Modern.
+
+Avoid:
+- Overly promotional language.
+- Generic agency jargon.
+- Unsupported claims.
+- Fake statistics.
+- Fabricated testimonials.
+- Repetitive descriptions.
+- Excessive text.
+
+Use the official tagline:
+
+**ENGINEERED FOR EXCELLENCE.**
+
+Use the company name consistently as ZYQUO.
+
+# 17. FINAL QUALITY ASSURANCE
+
+Before considering the website complete, verify:
+
+1. The official uploaded ZYQUO logo is used correctly.
+2. The official tagline appears correctly.
+3. The black-and-champagne-gold palette is consistent.
+4. Apple-inspired glassmorphism is implemented throughout.
+5. The navigation works.
+6. All pages load correctly.
+7. All buttons have working actions.
+8. Forms validate correctly.
+9. Responsive layouts work.
+10. Images load properly.
+11. There are no broken links.
+12. There are no obvious console errors.
+13. Animations work smoothly.
+14. Accessibility is considered.
+15. SEO metadata is present.
+16. Backend-dependent features are clearly identified.
+17. No fake achievements or testimonials are displayed.
+
+Do not stop after creating the homepage.
+
+Build the complete website architecture and implement the specified pages and features.
+
+If the entire project is too large for one generation, develop it in logical stages while maintaining the same design system, reusable components and brand consistency. Do not discard completed work when continuing.
+
+# 18. FINAL CREATIVE VISION
+
+The final ZYQUO website must feel like a premium international AI-integrated technology company.
+
+The visual experience should combine:
+
+- Apple's refined glassmorphism.
+- Luxury black-and-gold branding.
+- Sophisticated typography.
+- Cinematic presentation.
+- Advanced but restrained interactions.
+- Exceptional usability.
+- Strong business credibility.
+- Conversion-focused architecture.
+
+The website must not look like a standard digital marketing agency template.
+
+It should communicate innovation, engineering excellence, intelligence, reliability and ambition.
+
+When a potential client visits the website, the experience should make them feel:
+
+"This is a serious technology company. They understand business, technology and execution. I can trust them with an important project."
+
+Every design decision must support this perception.
+
+**ZYQUO**
+
+**ENGINEERED FOR EXCELLENCE.**
+
+Build something exceptional.
